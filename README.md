@@ -1,1 +1,1 @@
-# AI Assitant Extension
+# AI Assistant Extension

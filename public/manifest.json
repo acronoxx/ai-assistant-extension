@@ -1,0 +1,9 @@
+{
+  "name": "AI Assistant Extension",
+  "description": "Extension to use AI directly in google. You can put rules to avoid abusing of AI",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
